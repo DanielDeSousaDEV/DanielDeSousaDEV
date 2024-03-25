@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @DanielDeSousaDEV
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Laravel.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -14,10 +12,9 @@
 
 ## Estatísticas
 
-<div>
-<a href="https://github.com/DanielDeSousaDEV">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDeSousaDEV&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielDeSousaDEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div style="display: flex; align-items: center; width:100vw; justify-content: center;">
+<img loading="lazy" width="49%" margin="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDeSousaDEV&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" width="50%" margin="0" src="https://github-readme-stats.vercel.app/api?username=DanielDeSousaDEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 <!---
