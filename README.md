@@ -12,8 +12,8 @@
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanieldeSousaDEV&count_private=true&show_icons=true&theme=github_dark&hide=contribs,issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus1415&layout=compact&count_private=true&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielDeSousaDEV&count_private=true&show_icons=true&theme=github_dark&hide=contribs,issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDeSousaDEV&layout=compact&count_private=true&show_icons=true&theme=github_dark)
   
 <!---
 DanielDeSousaDEV/DanielDeSousaDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
