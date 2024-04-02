@@ -10,12 +10,10 @@
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40"/>
 
-## Estatísticas
+## Estatísticas do GitHub
 
-<div style="display: flex; align-items: center; width:100vw; justify-content: center;">
-<img loading="lazy" width="49%" margin="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDeSousaDEV&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" width="50%" margin="0" src="https://github-readme-stats.vercel.app/api?username=DanielDeSousaDEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanieldeSousaDEV&count_private=true&show_icons=true&theme=github_dark&hide=contribs,issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus1415&layout=compact&count_private=true&show_icons=true&theme=github_dark)
   
 <!---
 DanielDeSousaDEV/DanielDeSousaDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
