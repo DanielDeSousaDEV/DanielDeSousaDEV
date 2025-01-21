@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @DanielDeSousaDEV
 ## Ferramentas e Tecnologias
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,composer,mysql,bootstrap,markdown,api,npm,git,github&perline=12)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,composer,laravel,react,typescript,mysql,bootstrap,markdown,api,npm,git,github&perline=12)
 <!--bootstarp e react bootsrap-->
 
 ## Estou aprendendo
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=laravel,react,typescript&perline=12)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,tailwind&perline=12)
 
 ## Estatísticas do GitHub
 
