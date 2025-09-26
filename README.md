@@ -21,10 +21,16 @@
 
 
 <!-- MasterHead -->
+<!--
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
   <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
-
+-->
+<p align="center">
+  <a href="https://github.com/DanielDeSousaDEV/DanielDeSousaDEV/blob/Teste/photos/top-image.jpg">
+    <img src="https://github.com/DanielDeSousaDEV/DanielDeSousaDEV/blob/Teste/photos/top-image.jpg" alt="Fallout GIF" style="width:auto; height:auto"/>
+  </a>
+</p>
 
 
 <!--<h1 align="left">
@@ -72,9 +78,8 @@
 <h4> 
   🌱 Atualmente estou atuando como freelancer enquanto busco uma vaga fixa.</br>
  🔭 Minha Principais tecnologias são Laravel e React.</br>
- 💬 Skills I acquire in programming languages such as Python, SQL.</br>
- ⚡ Atualmente estou interessado em Automatização e DevOps.</br>
- ✨ I only like perfection.</h4> <div align="left"> 
+ 💬 Possuo conhecimento em PHP e Js/Ts.</br>
+ ⚡ Atualmente estou interessado em Automatização e DevOps.</br><div align="left"> 
 
 
   <h3>🧲 Contato :</h3>
@@ -123,7 +128,7 @@
 
 
 <!-- lang-->
-<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
+<h3 align="center">📚 Linguagens e Ferramentas que possuo conhecimento </h3>
 
 <br/>
 
@@ -148,7 +153,7 @@
 </div>
 
   
-  <h3>💻 Minha stack:</h3>
+  <h3>💻 Minha stack atual:</h3>
      <br/>
   <div align="center">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
