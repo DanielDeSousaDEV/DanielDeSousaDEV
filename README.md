@@ -128,29 +128,23 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,composer,laravel,react,typescript,mysql,bootstrap,tailwind,markdown,api,vscode,notion,npm,git,github&perline=9" />
 </div>
 
 <br/>
 
-
-
-
 <!-- top repo and teck stack-->
 <div align="center">
-  <h3>⭐️ Best Repositories</h3>
+  <h3>⭐️ Melhores repositorios</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/JoshuaThadi/Data-Science">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
-    <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />    </a>
-    <a href="https://github.com/JoshuaThadi/Generative-AI">
+    <a href="https://github.com/JoshuaThadi/Stock-Management-Client">
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=DanielDeSousaDEV&repo=Stock-Management-Client&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
+    <a href="https://github.com/Matheus1415/Mendel">
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus1415&repo=Mendel&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />    </a>
+    <!--<a href="https://github.com/JoshuaThadi/Generative-AI">
         <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Generative-AI&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
     <a href="https://github.com/JoshuaThadi/MachineLearning-and-DeepLearning">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=MachineLearning-and-DeepLearning&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=MachineLearning-and-DeepLearning&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>-->
 </div>
 
   
