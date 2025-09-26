@@ -114,8 +114,8 @@
 <h3 align="center">🌱 Github Status</h3>
 <br>
 <div align="center">
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=DanielDeSousaDEV&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=DanielDeSousaDEV&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=DanielDeSousaDEV&count_private=true&show_icons=true&theme=nord&rank_icon=github&locale=pt-br&border_radius=8"/> 
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=DanielDeSousaDEV&theme=nord&locale=pt_BR&hide_border=false" alt="GitHub Streak Stats"><br/>
 
   
   <!--<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">-->
@@ -140,7 +140,7 @@
 
 <!-- top repo and teck stack-->
 <div align="center">
-  <h3>⭐️ Melhores repositorios</h3>
+  <h3>⭐️ Melhores repositórios</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/DanielDeSousaDEV/Stock-Management-Client">
         <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=DanielDeSousaDEV&repo=Stock-Management-Client&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
