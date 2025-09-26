@@ -41,7 +41,7 @@
 </h1>
 <h2 align="center">❂ Oi, me chamo Daniel</h2>
 
-<h4 align="left">Desenvolvedor Full Stack Júnior com experiência em desenvolvimento web no front-end (HTML, CSS, JavaScript, React) e back-end (PHP, Laravel). Atuação em projetos acadêmicos, estágios e freelancers, aplicando Git/GitHub, integração de APIs, metodologias ágeis (Scrum/Kanban) e boas práticas de código, escalabilidade e performance. Participação em sistemas de e-commerce, aplicações educacionais e projetos pessoais utilizando TypeScript, Inertia.js e Docker. Em constante evolução, com interesse em testes automatizados, CI/CD e microsserviços.</h4>
+<h4 align="left">Desenvolvedor Full Stack Júnior, com experiência em desenvolvimento web tanto no front-end (HTML, CSS, JavaScript, React) quanto no back-end (PHP, Laravel). Já atuei em projetos acadêmicos, estágios e trabalhos freelancers, utilizando Git/GitHub, integração de APIs, metodologias ágeis (Scrum e Kanban) e aplicando boas práticas de código, com foco em escalabilidade e performance.</h4>
 
 
  <div align="center">
@@ -153,7 +153,7 @@
 </div>
 
   
-  <h3>💻 Minha stack atual:</h3>
+  <h3>💻 Minha principal atual:</h3>
      <br/>
   <div align="center">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
