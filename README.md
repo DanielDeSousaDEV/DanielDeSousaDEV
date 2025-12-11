@@ -146,12 +146,8 @@
         <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=DanielDeSousaDEV&repo=Stock-Management-Client&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
     <a href="https://github.com/Matheus1415/Mendel">
         <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus1415&repo=Mendel&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />    </a>
-    <a href="https://github.com/DanielDeSousaDEV/Stock-Management-Client">
+    <a href="https://github.com/DanielDeSousaDEV/PayForge">
         <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=DanielDeSousaDEV&repo=PayForge&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
-    <!--<a href="https://github.com/JoshuaThadi/Generative-AI">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Generative-AI&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
-    <a href="https://github.com/JoshuaThadi/MachineLearning-and-DeepLearning">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=MachineLearning-and-DeepLearning&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>-->
 </div>
 
   
